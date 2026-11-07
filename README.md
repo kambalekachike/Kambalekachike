@@ -63,17 +63,19 @@ Here are some ideas to get you started:
 
 ## 📊 Mes statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kambalekachike&show_icons=true&theme=tokyonight)
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=Kambalekachike&show_icons=true&theme=tokyonight)
 
-## 💻 Langages les plus utilisés
+## 💻 Les langages de programmation les plus utilisés
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kambalekachike&layout=compact&theme=tokyonight)
+![Mes langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kambalekachike&layout=compact&theme=tokyonight)
 
-## 🏆 Mes trophées GitHub
+## 🏆 Mes récompenses GitHub
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kambalekachike&theme=tokyonight)
+![Mes récompenses](https://github-profile-trophy.vercel.app/?username=Kambalekachike&theme=tokyonight)
 
 ---
 
-**Merci de visiter mon profil !**
+**Merci de visiter mon profil GitHub !**
+
+
 
