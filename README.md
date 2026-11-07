@@ -1,4 +1,4 @@
-## Hi there 👋👋 Bonjour, je suis Kambale Kachike
+## 👋👋 Bonjour, je suis Kambale Kachike
 
 💻 Développeur web | Étudiant en L3 IAGE
 
