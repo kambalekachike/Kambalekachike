@@ -57,3 +57,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+## 📊 Mes statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kambalekachike&show_icons=true&theme=tokyonight)
+
+## 💻 Langages les plus utilisés
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kambalekachike&layout=compact&theme=tokyonight)
+
+## 🏆 Mes trophées GitHub
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kambalekachike&theme=tokyonight)
+
+---
+
+**Merci de visiter mon profil !**
+
