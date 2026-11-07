@@ -1,16 +1,10 @@
-## Hi there 👋👋 Bonjour, bienvenue sur mon profil GitHub !
+## Hi there 👋👋 Bonjour, je suis Kambale Kachike
 
-KAMBALE KACHIKE ISHARA 
+💻 Développeur web | Étudiant en L3 IAGE
 
-🎓 Étudiant en Licence 3 – Informatique Appliquée à la Gestion des Entreprises (IAGE) à l'UAC.
+Bienvenue sur mon profil GitHub !
 
-💻 Développeur Web | Passionné d'informatique et de technologies numériques.
-
-👨‍💻 À propos de moi
-
-Je suis un étudiant passionné par l'informatique, le développement web et la conception de solutions numériques.
-
-Mon objectif est de mettre mes connaissances au service de projets innovants et utiles.
+Passionné par l'informatique, le développement web et les nouvelles technologies, je cherche constamment à apprendre et à créer des solutions numériques.
 
 🚀 Mes compétences
 
@@ -18,31 +12,35 @@ Mon objectif est de mettre mes connaissances au service de projets innovants et 
 - CSS3
 - JavaScript
 - PHP
-- MySQL
+- SQL
 - Git et GitHub
 
-🎯 Mes domaines d'intérêt
+📊 Mes statistiques GitHub
 
-- Développement Web
-- Informatique de gestion
-- Gestion des bases de données
-- Conception d'applications
-- Transformation numérique
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Kambalekachike&show_icons=true&theme=tokyonight)
 
-📚 Actuellement en apprentissage
+💻 Mes langages les plus utilisés
 
-- Perfectionnement en JavaScript
-- Développement avec PHP
-- Gestion des bases de données SQL
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Kambalekachike&layout=compact&theme=tokyonight)
 
-🤝 Contact
+🏆 Mes récompenses GitHub
 
-- GitHub : "@Kambalekachike" (https://github.com/Kambalekachike)
+"GitHub Trophies" (https://github-profile-trophy.vercel.app/?username=Kambalekachike&theme=tokyonight)
+
+🎯 Mes objectifs
+
+- Développer des applications web.
+- Approfondir mes connaissances en programmation.
+- Participer à des projets informatiques.
+- Devenir un développeur professionnel.
+
+📫 Contact
+
+GitHub : https://github.com/Kambalekachike
 
 ---
 
-⭐ Merci de visiter mon profil GitHub !
-
+⭐ Apprendre aujourd'hui, innover demain.
 <!--
 **kambalekachike/Kambalekachike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,24 +56,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
----
-
-## 📊 Mes statistiques GitHub
-
-![Mes statistiques](https://github-readme-stats.vercel.app/api?username=Kambalekachike&show_icons=true&theme=tokyonight)
-
-## 💻 Les langages de programmation les plus utilisés
-
-![Mes langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kambalekachike&layout=compact&theme=tokyonight)
-
-## 🏆 Mes récompenses GitHub
-
-![Mes récompenses](https://github-profile-trophy.vercel.app/?username=Kambalekachike&theme=tokyonight)
-
----
-
-**Merci de visiter mon profil GitHub !**
 
 
 
